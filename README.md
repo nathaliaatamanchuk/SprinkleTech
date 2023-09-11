@@ -1,7 +1,9 @@
 # Sprinkle Tech
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Developing&color=GREEN&style=for-the-badge"/>
+    <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Developing&color=346eeb&style=for-the-badge"/>
 </p>
+This project aims to build a prototype of an intelligent automatic irrigator for the reduction and control of hydraulic expenses, in which the management of temperature, humidity, pressure, and water flow is performed in a technological system.
+
 
 ## Authors
 
